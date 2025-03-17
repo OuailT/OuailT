@@ -17,7 +17,7 @@ Feel free to connect and DM me for opportunities on [X](https://x.com/Bjorn_Bug)
 Here are some of my best projects that demonstrate my skills in blockchain development and DeFi protocols:
 
 1. [StableFuture Protocol](https://github.com/OuailT/StableFutureProtocol)
-   - DeFi protocol enabling perpetual futures trading with liquidity provision and leveraged positions
+   - DeFi protocol for trading rETH perpetual futures with leverage
    - Technologies: Solidity, Pyth network, Chainlink oracles, Foundry
    
 2. [UniswapV4 AMM-Orderbook hybrid system](https://github.com/OuailT/UniswapV4Hook_Orderbook/tree/master)
